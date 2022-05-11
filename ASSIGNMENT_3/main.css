@@ -162,9 +162,10 @@ ul li a:hover{
 .text{
 	font-size: 16px;
 	font-weight: 400;
-	text-decoration:none;
+	text-decoration: none;
 	text-align: justify;
 	color: #ffffff;
+	background-color: black;
 }
 
 .imgg{
@@ -214,7 +215,7 @@ section.blockStyle article h3 {
   font-size: 30px;
   font-weight: 400;
   background-color: #A19887;
-  color: black;
+  color: white;
   text-transform: uppercase;
   font-variant: all-small-caps;
   padding: 0 16px;
