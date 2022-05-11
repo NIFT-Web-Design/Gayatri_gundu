@@ -49,8 +49,8 @@ body{
 }
 
 header{
-  background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(https://miro.medium.com/max/976/1*XeHOVBd9xCPqB22Kiz7ofw.jpeg);
-  height: 100vh;
+  background-image: url(https://miro.medium.com/max/976/1*XeHOVBd9xCPqB22Kiz7ofw.jpeg);
+	height: 100vh;
   background-size: cover;
   background-position: center;
 }
